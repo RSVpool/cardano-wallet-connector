@@ -1,4 +1,4 @@
-# Modified for submitting custom transactions thhrough wallet connector
+# Modified for submitting custom transactions through wallet connector
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
